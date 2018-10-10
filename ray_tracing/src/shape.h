@@ -1,7 +1,7 @@
 #ifndef CG_HW1_SHAPE_H
 #define CG_HW1_SHAPE_H
 
-#define CG_USE_TBB
+// #define CG_USE_TBB
 
 #include <vector>
 
