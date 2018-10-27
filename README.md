@@ -1,6 +1,8 @@
 # computer_graphics [![Build Status](https://travis-ci.com/LihengGong/computer_graphics.svg?branch=master)](https://travis-ci.com/LihengGong/computer_graphics)
 C++ programs for computer graphics
 
-Ray tracing as the first project.
+These algorithms are so beautiful.
 
-Will add OpenGL programs.
+- Ray tracing as the first project.
+
+- OpenGL programs as a simple "triangle editor" as the second project.
